@@ -88,8 +88,8 @@ To get started you can simply clone this `VIOLENT HOPE` website repository and i
 Clone the repository using git:
 
 ```bash
-git clone https://github.com/hurmitg/violent-hope-9407.git
-cd violent-hope-9407
+git clone https://github.com/Onkar271998/Violent-hope.git
+cd violent-hope
 ```
 
 Install the backend dependencies and run them :
